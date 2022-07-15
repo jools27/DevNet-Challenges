@@ -1,4 +1,7 @@
-'''This program checks the validity of an inputted IPv4 address.'''
+'''
+This program checks the validity of an inputted IPv4 address.
+Author: J. Bottorff 07/15/22
+'''
 
 def addressNumeric(addr_list):
     for octet in addr_list:
